@@ -1,0 +1,423 @@
+{
+  "analyticsCode": "",
+  "basics": {
+    "name": "Arnab",
+    "label": "Software Developer",
+    "animated_main_label": "developer",
+    "animated_secondary_initial_label": "software",
+    "animated_labels":["generative_ai", "full_stack", "systems"],
+    "animated_secondary_final_label": "systems",
+    "image": "/ArnabSleep.jpg",
+    "email": "arnab.b1103@gmail.com",
+    "url": "",
+    "summary": "I'm a final year B.Tech student, at PES University. I've worked on a diverse palette of projects from System Architectures and Full Stack Development to AI/ML and Simulations, using Python, Go, C++ and Javascript usually. Currently learning about AWS, Data Analytics and DevOps Automations",
+    "theme": "red",
+    "location": {
+      "address": "Bangalore",
+      "city": "Karnataka",
+      "countryCode": "IND",
+      "region": "India"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "icon": "mdi:github",
+        "color": "#929AAB",
+        "username": "Accuracy-exe",
+        "url": "https://github.com/Accuracy-exe"
+      },
+      {
+        "network": "Email",
+        "icon": "ri:mail-fill",
+        "color": "#D44638",
+        "username": "Ariel González Falcón",
+        "url": "mailto:falconyumn@gmail.com"
+      },
+      {
+        "network": "X / Twitter",
+        "icon": "ri:twitter-fill",
+        "color": "#1DA1F2",
+        "username": "@arielGfalcon",
+        "url": "https://x.com/arielGfalcon"
+      },
+      {
+        "network": "LinkedIn",
+        "icon": "ri:linkedin-fill",
+        "color": "#0066C2",
+        "username": "Ariel Falcón",
+        "url": "https://linkedin.com/in/arielfalcon"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "PES University",
+      "url": "https://pes.edu/",
+      "area": "B.Tech - Computer Science & Engineering",
+      "studyType": "Full-time student",
+      "startDate": "2022-09-01",
+      "endDate": "2026-05-21"
+    },
+    {
+      "institution": "The Oxford Senior Secondary School",
+      "url": null,
+      "area": "Higher Secondary Education (10th & 12th)",
+      "studyType": "Full-time student",
+      "startDate": "2020-04-01",
+      "endDate": "2022-05-01"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Problem Solving – Intermediate",
+      "date": "2024-03-25",
+      "url": "https://www.hackerrank.com/certificates/iframe/f07999f41ca4",
+      "issuer": "Hackerrank"
+    },
+    {
+      "name": "Google 5-Day Gen AI Intensive",
+      "date": "2025-02-01",
+      "url": "https://www.kaggle.com/certification/badges/accuwu/96",
+      "issuer": "Kaggle"
+    },
+    {
+      "name": "AWS Getting Started With Compute",
+      "date": "2025-01-03",
+      "url": "",
+      "issuer": "Amazon"
+    }
+  ],
+  "work": [
+    {
+      "name": "PESU Venture Labs",
+      "position": "Systems Engineering Intern",
+      "location_type": "Hybrid",
+      "location": "PES University, RR Campus",
+      "url": "https://www.pesuventurelabs.com/",
+      "startDate": "2025-06-01",
+      "endDate": null,
+      "summary": "Building a Cross-platform message summarization & prioritization tool. The tool provides contextual insights across multiple sources like gmail, slack, outlook, etc.",
+      "highlights": [
+        "Developed a data-intensive Angular project for internal use in the national healthcare system, focusing on managing complex data sets and implementing business logic."
+      ],
+      "responsibilities": [
+        "Designed High Level Architecture and Engineered the Data Flow Graph for this tool",
+        "Developed backend and modular data ingestion pipeline, in GoLang.",
+        "UI design for the tool."
+      ],
+      "achievements": [
+        "Built a robust and scalable backend with structured platform interface to enable more message sources in the future."
+      ],
+      "skills": {
+        "NodeJS": "ri:nodejs-line",
+        "Postman": "simple-icons:postman",
+        "Git": "mdi:git",
+        "GitHub": "mdi:github",
+        "Figma": "simple-icons:figma",
+        "Python":"simple-icons:python",
+        "MongoDB":"simple-icons:mongodb",
+        "GoLang":"simple-icons:go",
+        "Gmail API": "simple-icons:gmail",
+        "Slack SDK":"simple-icons:slack"
+      }
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "icon": "simple-icons:html5",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "icon": "ri:css3-fill",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "icon": "mdi:tailwind",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "icon": "simple-icons:javascript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "icon": "simple-icons:typescript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "icon": "ri:nodejs-line",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ]
+    },
+    {
+      "name": "Java",
+      "icon": "ri:java-line",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "icon": "simple-icons:mongodb",
+      "level": "Advanced",
+      "keywords": [
+        "Databases",
+        "File",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "icon": "simple-icons:mysql",
+      "level": "Advanced",
+      "keywords": [
+        "Backend",
+        "Databases",
+        "SQL",
+        "Relational Database"
+      ]
+    },
+    {
+      "name": "Git",
+      "icon": "mdi:git",
+      "level": "Advanced",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "icon": "mdi:github",
+      "level": "Advanced",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code",
+        "Git"
+      ]
+    },
+    {
+      "name": "AWS",
+      "icon": "simple-icons:amazonaws",
+      "level": "Beginner",
+      "keywords": [
+        "Cloud Computing",
+        "Backend",
+        "Infrastructure"
+      ]
+    },
+    {
+      "name": "Docker",
+      "icon": "mdi:docker",
+      "level": "Intermediate",
+      "keywords": [
+        "Virtual Environments",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Kubernetes",
+      "icon": "mdi:kubernetes",
+      "level": "Beginner",
+      "keywords": [
+        "Virtual Environments",
+        "Backend",
+        "Container Orchestration"
+      ]
+    },
+    {
+      "name": "Python",
+      "icon": "simple-icons:python",
+      "level": "Advanced",
+      "keywords": [
+        "Scripting",
+        "Automation",
+        "Web Development"
+      ]
+    },
+    {
+      "name": "Shell",
+      "icon": "simple-icons:shell",
+      "level": "Beginner",
+      "keywords": [
+        "Scripting",
+        "Automation"
+      ]
+    },
+    {
+      "name": "Linux",
+      "icon": "simple-icons:linux",
+      "level": "Beginner",
+      "keywords": [
+        "OS",
+        "Scripting",
+        "Automation"
+      ]
+    },
+    {
+      "name": "Postman",
+      "icon": "simple-icons:postman",
+      "level": "Intermediate",
+      "keywords": [
+        "API",
+        "Testing",
+        "Web Development",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Figma",
+      "icon": "simple-icons:figma",
+      "level": "Advanced",
+      "keywords": [
+        "Prototyping",
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name":"GoLang",
+      "icon": "simple-icons:go",
+      "level":"Intermediate"
+    },
+    {
+      "name":"C++",
+      "icon":"simple-icons:cplusplus",
+      "level":"Intermediate"
+    },
+    {
+      "name":"Svelte",
+      "icon":"simple-icons:svelte",
+      "level":"Intermediate"
+    },
+    {
+      "name":"React",
+      "icon":"simple-icons:react",
+      "level":"Intermediate"
+    },
+    {
+      "name":"Kafka",
+      "icon":"simple-icons:apachekafka",
+      "level":"Beginner"
+    },
+    {
+      "name":"Hadoop",
+      "icon":"simple-icons:apachehadoop",
+      "level":"Beginner"
+    },
+    {
+      "name":"Spark",
+      "icon":"simple-icons:apachespark",
+      "level":"Beginner"
+    },
+    {
+      "name":"Unity",
+      "icon":"simple-icons:unity",
+      "level":"Intermediate"
+    },
+    {
+      "name":"Blender",
+      "icon":"simple-icons:blender",
+      "level":"Intermediate"
+    },
+    {
+      "name":"mediapipe",
+      "icon":"simple-icons:mediapipe",
+      "level":"Intermediate"
+    }
+
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced - C1"
+    }
+  ],
+  "projects": [
+    {
+      "name": "CV Matching System",
+      "isActive": true,
+      "description": "A propiertary code AI-driven CV matching system to connect the offer and the best candidates. Automates the recruitment process.",
+      "highlights": [
+        "🎯 Tailored job opportunities",
+        "✨ AI-driven complex workflows ",
+        "🚀 80% increase in productivity"
+      ],
+      "stack": {
+        "Python": "simple-icons:python",
+        "Redis": "simple-icons:redis",
+        "Firebase": "simple-icons:firebase",
+        "Google Cloud": "simple-icons:googlecloud",
+        "Claude": "ri:claude-fill",
+        "Groq": "ri:robot-2-fill"
+      },
+      "url": "https://www.gringojobs.com"
+    },
+    {
+      "name": "TODO List",
+      "isActive": false,
+      "description": "A simple app to showcase my skills in Angular. It's a TODO list with a beautiful and smooth UI, good user experience and best practices. Not finished yet.",
+      "highlights": [
+        "📝 In progress",
+        "😮‍ Made-from-scratch complex components",
+        "😊 Beautiful and smooth UI, good user experience",
+        "\uD83E\uDD16 Server Side Rendering"
+      ],
+      "github": "https://github.com/ArielFalcon/TODO-list",
+      "stack": {
+        "Angular": "simple-icons:angular",
+        "RxJS": "simple-icons:reactivex",
+        "TypeScript": "simple-icons:typescript",
+        "SCSS": "simple-icons:sass",
+        "NodeJS": "ri:nodejs-line",
+        "Firebase": "simple-icons:firebase"
+      }
+    }
+  ]
+}

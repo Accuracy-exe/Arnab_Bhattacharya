@@ -1,0 +1,41 @@
+---
+
+---
+export interface Props {
+  labels: string[]
+  className?: string
+}
+
+const { labels, className } = Astro.props
+---
+
+<span
+  id="rotating-label"
+  class={`font-roboto-condensed font-bold lowercase text-xl lg:text-[1rem] lg:leading-[1rem] bg-clip-text text-transparent bg-gradient-to-r from-pink-500 to-violet-500 ${className}`}
+>
+  {labels[0]}
+</span>
+
+<script type="module" client:load>
+  const labels = JSON.parse(`{JSON.stringify(labels)}`);
+  const labelEl = document.getElementById("rotating-label");
+
+  let currentIndex = 0;
+  let intervalId = null;
+
+  const parent = labelEl?.closest("#label-rotator-container");
+  if (parent && labelEl) {
+    parent.addEventListener("mouseenter", () => {
+      if (intervalId) return;
+      intervalId = setInterval(() => {
+        currentIndex = (currentIndex + 1) % labels.length;
+        labelEl.textContent = labels[currentIndex];
+      }, 1500);
+    });
+
+    parent.addEventListener("mouseleave", () => {
+      clearInterval(intervalId);
+      intervalId = null;
+    });
+  }
+</script>
