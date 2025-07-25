@@ -7,7 +7,7 @@
     "animated_secondary_initial_label": "software",
     "animated_labels":["generative_ai", "full_stack", "systems"],
     "animated_secondary_final_label": "systems",
-    "image": "/ArnabSleep.jpg",
+    "image": "/ArnabPro.jpg",
     "email": "arnab.b1103@gmail.com",
     "url": "",
     "summary": "I'm a final year B.Tech student, at PES University. I've worked on a diverse palette of projects from System Architectures and Full Stack Development to AI/ML and Simulations, using Python, Go, C++ and Javascript usually. Currently learning about AWS, Data Analytics and DevOps Automations",
@@ -381,21 +381,26 @@
   ],
   "projects": [
     {
-      "name": "Coming Soon",
-      "isActive": true,
-      "description": "Work In Porgress...",
-      "highlights": [ "... Coming Soon ..."
+      "name": "Yet Another Task Distributor",
+      "isActive": false,
+      "description": "The YATD-Big-Data-Project is a Task Distributer system to understand Distributed Systems for Big Data. It efficiently distributes tasks among multiple workers, utilizes a Redis database for task management, and implements a message broker for seamless communication between clients and workers.",
+      "highlights": [ 
+        "Distributes tasks among multiple worker nodes.",
+        "Stores / manages task data using a Redis database."
       ],
       "stack": null,
-      "url": null
+      "github":"https://github.com/Accuracy-exe/Task-Distributor-Big-Data-Project"
     },
     {
-      "name": "Coming Soon",
+      "name": "KawaiiKube - Cluster Sim",
       "isActive": false,
-      "description": "Work In Porgress...",
-      "highlights": ["... Coming Soon ..."
+      "description": "A lightweight, simulation-based distributed system that mimics core Kubernetes cluster management functionalities. The system creates a simplified yet comprehensive platform for demonstrating key distributed computing concepts",
+      "highlights": [
+        "Mimics core Kubernetes cluster functionalities.",
+        "Creation of node, with name/id & number of cores.",
+        "Heartbeat signals from node running in docker."
       ],
-      "github": null,
+      "github": "https://github.com/Accuracy-exe/Distributed-Systems-Cluster-Simulation",
       "stack": null
     }
   ]
